@@ -1,5 +1,5 @@
 import streamlit as st
-st.set_page_config(layout="wide")
+st.set_page_config(page_title="60 Day Roadmap",layout="wide")
 def display_roadmap():
     st.title("📈 60-Day Intensive Tech Mastery Roadmap")
     st.markdown("""
